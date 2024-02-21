@@ -120,7 +120,7 @@ int main(int argc, char *argv[])
                 cout << " " << pi + 1 << " (" << tokens[pi] << ")";
             }
         }
-        cout << "\n";
+        cout << "\n" << "\n";
     }
     return 0;
 }
